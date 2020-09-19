@@ -2,5 +2,5 @@ var socket;
 
 function init()
 {
-    socket = io.connect("http://localhost:3000");
+    socket = io.connect("https://murderman.herokuapp.com");
 }
