@@ -1,0 +1,8 @@
+//*********** MURDERMAN: THE GAME *************\\
+
+                    RULES
+1. There is a murderer and an undercover person both have knives
+2. The undercover's goal is to kill the murderer without killing a lot of innocents
+3. Every minute there is a meeting where everyone in the game decides who to throw into the pit
+4. The murderer's goal is to kill all the innocents and the undercover
+5. No one knows who the murderer or the undercover is.
