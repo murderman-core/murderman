@@ -1,7 +1,7 @@
 function loadFromFile(path) 
 {
     var rawFile = new XMLHttpRequest();
-    rawFile.open("GET", file, false);
+    rawFile.open("GET", path, false);
     rawFile.onreadystatechange = function ()
     {
         if(rawFile.readyState === 4)
