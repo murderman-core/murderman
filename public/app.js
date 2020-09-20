@@ -1,6 +1,7 @@
 var socket;
 var canvas;
 var gl;
+var context;
 
 function init()
 {
